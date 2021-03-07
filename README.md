@@ -1,4 +1,8 @@
 # A function generator based in DDS, the AD9833
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zaaheF0XjLw/0.jpg)](https://www.youtube.com/watch?v=zaaheF0XjLw )
+
+
 ## Core features
 
 - +/- 10V peak to peak
