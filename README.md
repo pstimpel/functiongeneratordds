@@ -5,7 +5,7 @@
 
 ## Core features
 
-- +/- 10V peak to peak
+- +/- 10V 
 - linear power supply, builtin
 - Sweep function
 - Random function
