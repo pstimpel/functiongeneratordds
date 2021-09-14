@@ -45,6 +45,9 @@ Voice in Video by https://www.text2speech.org/
 - 3x Screw Terminal Block
 - GY9833 / AD9833 breakout board 3.3V
 - 270 Ohms Resistor SMD: 0805
+- 2x 100 Ohms Resistor THT 0.25W 5% or better
+- 8-pin IC socket
+- TL072 OpAmp
 - 10k Trim Poti
 - 10k Poti
 - 50k Poti 
@@ -75,6 +78,15 @@ The lever is held to the front by an M3x16 screw, and secures the OLED.
 ## Logic PCB
 
 I was creating a single sided PCB, so everyone with equipment should be able to create the PCB as well. However, I do not recommend using my board design. I had some parts laying around, and was recycling them by mixing SMD and THT with no bad feelings. 
+
+## Improvements
+
+2021-09-14 
+
+- Added missing OpAmp
+- replaced TL071 by TL072 for output buffering
+- added 2 100 Ohms resistors in parallel to output for 50 Ohms Output
+- added updated circuit and gerber stuff to repo 
 
 ## License
 
